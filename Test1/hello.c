@@ -4,7 +4,7 @@
 void main()
 
 {
-printf("Hello SII"):
+//printf("Hello SII"):
 
 }
 
