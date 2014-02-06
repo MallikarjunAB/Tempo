@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 #include <conio.h>
 
@@ -15,3 +16,4 @@ scanf ("%d", &k);
 printf(" your DOB is %d: %d : %d ",i,j,k);
 getch();
 }
+*/
