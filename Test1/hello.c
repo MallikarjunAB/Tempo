@@ -1,3 +1,4 @@
+/*
 #include<stdio.h>
 #include<conio.h>
 
@@ -8,3 +9,4 @@ printf("Hello SII"):
 printf("This is Hello  for Feb 2014"):
 }
 
+*/
